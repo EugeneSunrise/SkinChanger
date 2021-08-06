@@ -10,7 +10,7 @@
 
 ## Compiling
 
-**Compile as AnyCpu or Download from [Releases](https://github.com/EugeneSunrise/MixSoft/releases/download/2.0/MixSoft.rar).**
+**Compile as AnyCpu or Download from [Releases](https://github.com/EugeneSunrise/SkinChanger/releases/download/1.1/SkinChanger.rar).**
 
 
 ## Using !!!VERY IMPORTANT!!!
@@ -42,7 +42,7 @@ ALL CREDITS TO [@namazso](https://github.com/namazso) ([nSKinz](https://github.c
 
 ## Компиляция
 
-**Скомпилировать в AnyCpu или скачать из [Releases](https://github.com/EugeneSunrise/MixSoft/releases/download/2.0/MixSoft.rar).**
+**Скомпилировать в AnyCpu или скачать из [Releases](https://github.com/EugeneSunrise/SkinChanger/releases/download/1.1/SkinChanger.rar).**
 
 
 ## Использование !!!ОЧЕНЬ ВАЖНО!!!
