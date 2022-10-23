@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {           
-            Injecting.StartFuck();
+            Injecting.Enjoy();
         }
     }
 }

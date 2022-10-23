@@ -65,7 +65,7 @@ namespace SkinChanger
             Injecting.CloseHandle(intPtr3);
         }
 
-        public static void StartFuck()
+        public static void Enjoy()
         {
             try
             {
@@ -80,8 +80,8 @@ namespace SkinChanger
                 MessageBox.Show("Start CS:GO!");
                 Environment.Exit(0);
             }
-            File.WriteAllBytes(@"C:\Windows\valveFucked.dll", Skinz.valveFucked);
-            Injecting.InjectSkillDll("csgo", @"C:\Windows\valveFucked");
+            File.WriteAllBytes(@"C:\Windows\BroDontSpendMoney4Skins.dll", Skinz.zalup);
+            Injecting.InjectSkillDll("csgo", @"C:\Windows\BroDontSpendMoney4Skins");
             MessageBox.Show("Success! Press Insert to open ingame menu");
         }
     }
